@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:text="Hello! I am on Branch master to do a quick fix and merged with anotehr branch" />
+        android:text="Hello! I am on Branch master to do a quick fix and merged with anotehr branch from home" />
 
 		
 
