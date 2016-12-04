@@ -14,4 +14,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello! I am on Branch myBranch" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello! I am on Branch secondBranch." />
 </RelativeLayout>
